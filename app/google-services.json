@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786916888449",
+    "firebase_url": "https://photocloud-9f753.firebaseio.com",
+    "project_id": "photocloud-9f753",
+    "storage_bucket": "photocloud-9f753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786916888449:android:5e5cf91ad9d242f7",
+        "android_client_info": {
+          "package_name": "com.omrin.photocloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786916888449-u2b4cdf0f98uaqvlhon8fe2ch9ulf8g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omrin.photocloud",
+            "certificate_hash": "3188ee9152d37db4d5255845f440521e1ef89227"
+          }
+        },
+        {
+          "client_id": "786916888449-v25j7ic1dvtvuqrr20fgf2qcvtpkvgr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtklSPE0aZTiDXzjckfGv6enTUBRDhCc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786916888449-v25j7ic1dvtvuqrr20fgf2qcvtpkvgr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
