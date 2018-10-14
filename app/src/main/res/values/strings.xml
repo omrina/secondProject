@@ -20,4 +20,6 @@
         completions."
     </string>
     <string name="action_sign_out">Sign out</string>
+    <string name="register_title">Sign Up for PhotoCloud</string>
+    <string name="login_title">Login for PhotoCloud</string>
 </resources>
